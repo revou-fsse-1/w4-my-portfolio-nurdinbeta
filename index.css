@@ -55,6 +55,10 @@ section {
   align-items: center;
   padding: 48px;
   background-color: #a2b5bb;
+  gap: 24px;
+}
+
+.about {
 }
 
 .portfolio-container {
