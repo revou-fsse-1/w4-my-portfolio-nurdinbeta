@@ -2,6 +2,11 @@
 
 > This is an example assignment of process of deployment in Netlify, buy own domain in Niagahoster, SetUp DNS and Web hosting in CloudFlare.
 
+## Link Preview
+
+1. Netlify : https://nube-portfolio.netlify.app/
+2. Own Domain : https://nube-portfolio.xyz/
+
 ## Deployment on Netlify
 
 1. Open Netlify on your browser, then click sign up or click log in if you already have the account.
